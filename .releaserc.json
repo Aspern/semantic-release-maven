@@ -20,7 +20,7 @@
     [
       "@semantic-release/exec",
       {
-        "publishCmd" : "mvn -Drevision=${nextRelease.version} -DskipTests=true package"
+        "publishCmd" : "echo 'Hello' && mvn clean && mvn -Drevision=${nextRelease.version} -DskipTests=true package"
       }
     ],
     [
