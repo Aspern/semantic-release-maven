@@ -1,0 +1,14 @@
+language: java
+jdk:
+  - openjdk8
+node_js: 12
+
+before_install:
+  - npm i -g @semantic-release/changelog, @semantic-release/exec
+
+after_success:
+  - npx semantic-release@17
+
+branches:
+  only:
+    - master
