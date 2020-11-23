@@ -2,11 +2,14 @@ language: java
 jdk:
   - openjdk8
 
+notifications:
+  email: true
+
 after_success:
   - |
     if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then \
        nvm install lts/* && \
-       npm i @semantic-release/changelog @semantic-release/exec && \
+       npm i @semantic-release/changelog @semantic-release/git @semantic-release/exec && \
        npx semantic-release@17; \
     fi
 
