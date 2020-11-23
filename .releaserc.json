@@ -14,7 +14,7 @@
     [
       "@semantic-release/github",
       {
-        "assets": [ "target/**" ]
+        "assets": [ "target/**/*.jar" ]
       }
     ],
     [
