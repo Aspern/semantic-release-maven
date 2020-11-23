@@ -4,9 +4,9 @@ jdk:
 
 after_success:
   - |
-    if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then \
+    if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then \
        nvm install lts/* && \
-       npm i -g @semantic-release/changelog @semantic-release/exec && \
+       npm i @semantic-release/changelog @semantic-release/exec && \
        npx semantic-release@17; \
     fi
 
