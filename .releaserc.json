@@ -14,15 +14,13 @@
     [
       "@semantic-release/github",
       {
-        "assets": [
-          {"path":  "target/**", "label": "semantic-release-maven"}
-        ]
+        "assets": [ "target/**" ]
       }
     ],
     [
       "@semantic-release/exec",
       {
-        "prepareCmd" : "mvn -Drevision=${nextRelease.version} -DskipTests=true package"
+        "publishCmd" : "mvn -Drevision=${nextRelease.version} -DskipTests=true package"
       }
     ],
     [
