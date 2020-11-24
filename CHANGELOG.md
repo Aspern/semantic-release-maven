@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Aspern/semantic-release-maven/compare/v1.0.0...v1.1.0) (2020-11-24)
+
+
+### Features
+
+* Comment Feature ([24f81d8](https://github.com/Aspern/semantic-release-maven/commit/24f81d8aeac75d0469961f089e68711760b31317))
+
 # 1.0.0 (2020-11-23)
 
 
