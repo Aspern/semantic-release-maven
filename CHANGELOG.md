@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Aspern/semantic-release-maven/compare/v1.2.0...v1.3.0) (2020-12-14)
+
+
+### Features
+
+* hello world accepts name parameter ([c30ed7a](https://github.com/Aspern/semantic-release-maven/commit/c30ed7a41e296f5032b02f2df47b07035273c23e))
+
 # [1.2.0](https://github.com/Aspern/semantic-release-maven/compare/v1.1.1...v1.2.0) (2020-12-14)
 
 
