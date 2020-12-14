@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Aspern/semantic-release-maven/compare/v1.1.1...v1.2.0) (2020-12-14)
+
+
+### Features
+
+* **IFS-42:** Hello World Controller ([793917d](https://github.com/Aspern/semantic-release-maven/commit/793917d8eedad37d8d1926b5b159a6db8a38fbff))
+
 ## [1.1.1](https://github.com/Aspern/semantic-release-maven/compare/v1.1.0...v1.1.1) (2020-11-24)
 
 
