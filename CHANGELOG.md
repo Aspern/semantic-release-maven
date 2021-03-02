@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/Aspern/semantic-release-maven/compare/v1.3.0...v2.0.0) (2021-03-02)
+
+
+* Update README.md ([7fb7987](https://github.com/Aspern/semantic-release-maven/commit/7fb7987346840723cb01b988c1ee6226c98db9f0))
+
+
+### BREAKING CHANGES
+
+* This is breaking everything
+
 # [1.3.0](https://github.com/Aspern/semantic-release-maven/compare/v1.2.0...v1.3.0) (2020-12-14)
 
 
