@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Aspern/semantic-release-maven/compare/v1.3.0...v1.4.0) (2021-04-09)
+
+
+### Features
+
+* we love developping multiple release versions ([b117676](https://github.com/Aspern/semantic-release-maven/commit/b117676109c399a2132feecb22c53db2b9f7bf69))
+
 # [1.3.0](https://github.com/Aspern/semantic-release-maven/compare/v1.2.0...v1.3.0) (2020-12-14)
 
 
