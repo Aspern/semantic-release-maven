@@ -1,5 +1,8 @@
 {
-  "branches": "master",
+  "branches": [
+    {"name": "master"},
+    {"name": "release/1.3.1"}
+  ],
   "repositoryUrl": "https://github.com/Aspern/semantic-release-maven.git",
   "debug": "true",
   "plugins": [
