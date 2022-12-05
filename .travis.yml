@@ -1,8 +1,9 @@
+dist: focal
 language: java
 jdk:
   - openjdk8
 nodejs:
-  - 18
+  - 17
 
 notifications:
   email: true
