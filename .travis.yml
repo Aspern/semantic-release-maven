@@ -1,6 +1,8 @@
 language: java
 jdk:
   - openjdk8
+nodejs:
+  - 18
 
 notifications:
   email: true
